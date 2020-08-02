@@ -3,19 +3,141 @@
     {
       "id": 1,
       "titulo": "Front End",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+      "cor": "#6BD1FF"
+    },
+    {
+      "titulo": "Back End",
+      "descricao": "",
+      "cor": "#0e5817",
+      "id": 2
+    },
+    {
+      "titulo": "Mobile",
+      "descricao": "",
+      "cor": "#401ca0",
+      "id": 3
     }
   ],
   "videos": [
     {
       "id": 1,
+      "titulo": "A História do Front-End para Iniciantes em Programação | Série \"Começando aos 40\"",
+      "url": "https://www.youtube.com/watch?v=VKmPGmFY7H4",
+      "categoriaId": 1
+    },
+    {
+      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "id": 2
+    },
+    {
+      "titulo": "Antes de ser frontend assista esse vídeo",
+      "url": "https://www.youtube.com/watch?v=hGalqf_D8To",
+      "categoriaId": 1,
+      "id": 3
+    },
+    {
+      "titulo": "TODO desenvolvedor FRONTEND deveria saber disso! Importante",
+      "url": "https://www.youtube.com/watch?v=oGy1qDSfjXo",
+      "categoriaId": 1,
+      "id": 4
+    },
+    {
+      "titulo": "React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!",
+      "url": "https://www.youtube.com/watch?v=XQxitgyZ_S4",
+      "categoriaId": 1,
+      "id": 5
+    },
+    {
+      "titulo": "Recriando a Interface do Discord com ReactJS | UI Clone",
+      "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU",
+      "categoriaId": 1,
+      "id": 6
+    },
+    {
+      "titulo": "Desvendando o CSS Grid na prática | Mayk Brito",
+      "url": "https://www.youtube.com/watch?v=HN1UjzRSdBk",
+      "categoriaId": 1,
+      "id": 7
+    },
+    {
+      "titulo": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
+      "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI",
+      "categoriaId": 2,
+      "id": 8
+    },
+    {
+      "titulo": "Entendendo Back-End para Iniciantes em Programação (Parte 1) | Série \"Começando aos 40\"",
+      "url": "https://www.youtube.com/watch?v=Qjk-cSW-jk4",
+      "categoriaId": 2,
+      "id": 9
+    },
+    {
+      "titulo": "Backend e Frontend - O programador explica",
+      "url": "https://www.youtube.com/watch?v=WzZ1CSuFpb0",
+      "categoriaId": 2,
+      "id": 10
+    },
+    {
+      "titulo": "O que é Node JS? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w",
+      "categoriaId": 2,
+      "id": 11
+    },
+    {
+      "titulo": "O que são Microsserviços? (Microservices) #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=jSnLOoGjQ80",
+      "categoriaId": 2,
+      "id": 12
+    },
+    {
+      "titulo": "O que é Node.js? (Entenda de uma vez por todas)",
+      "url": "https://www.youtube.com/watch?v=nfrVPzDJZQc",
+      "categoriaId": 2,
+      "id": 13
+    },
+    {
+      "titulo": "Programação Mobile - #DevMediaResponde",
+      "url": "https://www.youtube.com/watch?v=6YnSIyoFaAE",
+      "categoriaId": 3,
+      "id": 14
+    },
+    {
+      "titulo": "Desenvolvimento Android #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+      "categoriaId": 3,
+      "id": 15
+    },
+    {
+      "titulo": "Desenvolvimento Mobile - Nativo vs React Native, Flutter ou Ionic",
+      "url": "https://www.youtube.com/watch?v=8JGa44vdQ8Y",
+      "categoriaId": 3,
+      "id": 16
+    },
+    {
+      "titulo": "APP Flutter - Sua PRIMEIRA App COMPLETA",
+      "url": "https://www.youtube.com/watch?v=jyjdXFsQoYw",
+      "categoriaId": 3,
+      "id": 17
+    },
+    {
+      "titulo": "Iniciando com React Native em 2019 | Diego Fernandes",
+      "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA",
+      "categoriaId": 3,
+      "id": 18
+    },
+    {
+      "titulo": "Você já viu como é fácil utilizar o Expo para desenvolver um App Mobile Nativo? (Android e iPhone)",
+      "url": "https://www.youtube.com/watch?v=uxZe6TGsVJk",
+      "categoriaId": 3,
+      "id": 19
+    },
+    {
+      "titulo": "Node.js: Iniciando da teoria à prática | Masterclass #11",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs",
+      "categoriaId": 2,
+      "id": 20
     }
   ]
 }
